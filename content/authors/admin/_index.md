@@ -1,13 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Кирилл Чубаев
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Кирилл
+last_name: Чубаев
 
 # Status emoji
 status:
@@ -20,133 +17,100 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Студент РУДН
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Москва, Россия
+    url: https://www.mos.ru
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mail:kirillchubaev8@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/mrchubaev
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://github.com/KirillChubaev
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Высшая математика
+  - Баскетбол и плавание
+  - Видеомонтаж
+  - Программирование
+  - Игра на гитаре
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Направление "Математика и механика"
+    institution: ФФМиЕН РУДН им. Патриса Лумумбы
+    date_start: 2024-09-01
+    date_end: 2028-06-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      По результатам рейтинга QS by Subject в 2024 году, Российский университет дружбы народов занят 87-е место в мире по направлению “Математика”. По данным RAEX на 2024 год, Российский университет дружбы народов входит в предметный рейтинг вузов по математике с показателем 7-е место.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Профиль "Информатика и математика"
+    institution: Лицей МГУ им. Н. П. Огарёва
+    date_start: 2022-09-01
+    date_end: 2024-06-30
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - position: Студент
+    company_name: Российский Университет Дружбы Народов имени Патриса Лумумбы
+    company_url: 'https://www.rudn.ru/'
+    company_logo: 'https://www.rudn.ru/'
+    date_start: 2024-09-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      - Анализировать
+      - Моделировать
+      - Оптимизировать
+ 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Skills
     items:
-      - name: Python
+      - name: Плавание
         description: ''
         percent: 80
-        icon: code-bracket
-      - name: Data Science
+        icon: person-simple-walk
+      - name: Монтаж видео
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: camera
+      - name: Программирование
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: calculator
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Книги
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: circle-stack
+      - name: Международные отношения
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: code-bracket
+      - name: Иностранные языки
         description: ''
         percent: 80
-        icon: camera
+        icon: language
 
 languages:
-  - name: English
+  - name: Русский
     percent: 100
-  - name: Chinese
+  - name: Английский
     percent: 75
-  - name: Portuguese
+  - name: Немецкий
     percent: 25
 
 # Awards.
@@ -154,33 +118,30 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
+  - title: Призер регионального этапа ВСОШ по английскому языку
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+    date: '2024-02-25'
+    awarder: Всероссийская олимпиада школьников
+    icon: ""
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
+      
+  - title: Призер регионального этапа ВСОШ по правоведению
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+    date: '2023-02-28'
+    awarder: Всероссийская олимпиада школьников
+    icon: ""
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
+      
+  - title: Победитель олимпиады МГУ им. Н. П. Огарёва по математике
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+    date: '2023-03-20'
+    awarder: ФГБОУ "МГУ им. Н. П. Огарёва"
+    icon: ""
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      
 ---
 
-## About Me
+## Обо мне
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Добро пожаловать на персональный сайт Чубаева Кирилла Евгеньевича. На данной странице вы можете ознакомиться с биографией, интересами и достижениями студента, а также прочитать его авторские статьи и личный блог. Для более подробной информации вы можете ознакомиться с резюме Кирилла внизу. Приятного просмотра!)
